@@ -6,4 +6,5 @@ Spring Boot(Maven), React(js)
 뉴스 조회,
 뉴스 검색,
 페이징,
-기사 수 분
+기사 수 분할,
+날짜 조회
